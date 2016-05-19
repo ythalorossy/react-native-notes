@@ -1,0 +1,20 @@
+{
+  "name": "ReactNotes",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "lodash": "^4.11.2",
+    "react": "^0.14.8",
+    "react-native": "^0.24.1",
+    "react-native-barcode-scanner-universal": "^1.0.2",
+    "react-native-barcodescanner": "^1.0.1",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-full-screen": "0.0.0",
+    "react-native-maps": "^0.3.2",
+    "react-native-router-flux": "^3.22.23",
+    "underscore": "^1.8.3"
+  }
+}
